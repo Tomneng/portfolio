@@ -22,6 +22,8 @@
 >  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/MyBatis-1F232A.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/AWS--EC2-232F3E.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/AWS--RDS-232F3E.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
 > </div>
 >
 > <div align="center">
@@ -38,4 +40,19 @@
 <br>
 
 > ### DevBox
-> * 
+> * [프로젝트 상세보기](https://github.com/Tomneng/DevBox)
+> * 국비교육과정 두번째 협업 프로젝트 및 첫 SPA 프로젝트
+> * 개발 기간: 24.
+> * 기술 기여: JWT를 활용한 회원기능 및 MyDoc 테마 담당
+> * 사용 기술 스택
+> <div align="center">
+>  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/Spring Data Jpa-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />&nbsp
+>  <br>
+>  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />&nbsp
+>  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+> </div>
