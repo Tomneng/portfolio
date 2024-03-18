@@ -29,7 +29,7 @@
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
 > </div>
 > <div align="center">
-> <h3>부동산테마 리스트 및 스크랩 기능 / 회원 가입 기능<h3/>  
+> <h3>부동산테마 리스트 및 스크랩 기능 / 회원 가입 이메일 인증 기능<h3/>  
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/4035a2ee-46ba-4283-96ec-4f35ac1408e8" width="400px" height="250px" alt="gif"></img><img src="https://github.com/Tomneng/portfolio/assets/151795437/f0f41896-08ac-4b3c-9de8-909a10c2811b" width="400px" height="250px" alt="gif"></img>
 > </div>
 
