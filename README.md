@@ -8,8 +8,6 @@
 > * 개발 기간: 23.11.28 ~ 23.12.29
 > * 기술 기여: 소셜로그인을 포함한 자체로그인/회원 기능 및 부동산 거래내역 페이지 테마 담당
 > * 사용 기술 스택
-> 
-> * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 > <div align="center">
 >  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -23,6 +21,7 @@
 >  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/MyBatis-1F232A.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
 > </div>
+> * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 
 > <div align="center">
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
