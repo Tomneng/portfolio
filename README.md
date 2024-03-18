@@ -42,9 +42,9 @@
 > ### DevBox
 > * [프로젝트 상세보기](https://github.com/Tomneng/DevBox)
 > * 국비교육과정 두번째 협업 프로젝트 및 첫 SPA 프로젝트
-> * RESTful API 통신 구현 및 JWT 학습목적으로 개발
+> * RESTful API 통신 구현 및 React 활용 & JWT 학습목적으로 개발
 > * 개발 기간: 24.01.23 ~ 24.03.18
-> * 기술 기여: JWT를 활용한 회원기능 및 MyDoc 테마 담당
+> * 기술 기여: JWT를 활용한 회원기능 및 MyDoc 테마 담당 -> JWT 토큰 방식은 구현되었으나, RTR 방식 구현 도중 중단됨.  
 > * 사용 기술 스택
 > <div align="center">
 >  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
