@@ -28,6 +28,10 @@
 > <h3>프로젝트 아키텍쳐 (싱글 인스턴스 사용, AWS S3 미사용)<h3/>  
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
 > </div>
+> <div align="center">
+> <h3>프로젝트 아키텍쳐 (싱글 인스턴스 사용, AWS S3 미사용)<h3/>  
+> <img src="https://github.com/Tomneng/portfolio/assets/151795437/4035a2ee-46ba-4283-96ec-4f35ac1408e8" width="400px" height="250px" alt="gif"></img><img src="https://github.com/Tomneng/portfolio/assets/151795437/f0f41896-08ac-4b3c-9de8-909a10c2811b" width="400px" height="250px" alt="gif"></img>
+> </div>
 
 <br>
 <hr>
