@@ -1,5 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
 
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro, .projects {
+    margin-bottom: 40px;
+}
+
+.projects {
+    border-top: 2px solid #333;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+</style>
+<body>
     <header>
         <h1>My Portfolio</h1>
     </header>
@@ -24,4 +73,5 @@
     <footer>
         <p>© 2024 My Portfolio</p>
     </footer>
-
+</body>
+</html>
