@@ -11,10 +11,10 @@
 > * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 > 
 > <div align="center">
-> <img src="https://github.com/Tomneng/portfolio/assets/151795437/8c7e4eb6-2686-4d51-8127-143430330395" width="800px" height="450px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>  
+> <img src="https://github.com/Tomneng/portfolio/assets/151795437/8c7e4eb6-2686-4d51-8127-143430330395" width="800px" height="450px" alt="Architecher"></img><br/>  
 > </div>
-
+<br>
 ***
-
+<br>
 > ### DevBox
 > * 
