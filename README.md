@@ -2,6 +2,7 @@
 
 ## PROJECTS (Team)
 > ### INSeoulProject
+> * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 > * MBTI + Seoul 테마로 성향에 맞는 음식, 거주지, 여행지 추천 사이트
 > * 국비교육과정 첫번쨰 협업 프로젝트
 > * KIT 해커톤 공모전 장려상 수상작
@@ -21,7 +22,6 @@
 >  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/MyBatis-1F232A.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
 > </div>
-> * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 
 > <div align="center">
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
