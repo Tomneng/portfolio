@@ -24,6 +24,7 @@
 > </div>
 >
 > <div align="center">
+> <h3>프로젝트 아키텍쳐 (싱글 인스턴스 사용, AWS S3 미사용)<h3/>  
 > <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
 > </div>
 
