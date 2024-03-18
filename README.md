@@ -3,6 +3,8 @@
 ## PROJECTS (Team)
 > ### INSeoulProject
 > * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
+> * <blockquote><h3>시연 영상</h3></blockquote>
+><p dir="auto"><a href="https://www.youtube.com/watch?v=PpnqkfdnhoM&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=6" rel="nofollow">YouTube 보기</a></p>
 > * MBTI + Seoul 테마로 성향에 맞는 음식, 거주지, 여행지 추천 사이트
 > * 국비교육과정 첫번쨰 협업 프로젝트
 > * KIT 해커톤 공모전 장려상 수상작
