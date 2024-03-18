@@ -55,4 +55,5 @@
 >  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 >  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+>  <img src="https://img.shields.io/badge/JWT-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 > </div>
