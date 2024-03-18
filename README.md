@@ -11,7 +11,7 @@
 > * [프로젝트 상세보기](https://github.com/Tomneng/INSeoulProject)
 > 
 > <div align="center">
-> <img src="https://github.com/Tomneng/portfolio/assets/151795437/8c7e4eb6-2686-4d51-8127-143430330395" width="800px" height="450px" alt="Architecher"></img><br/>  
+> <img src="https://github.com/Tomneng/portfolio/assets/151795437/e1e8b180-ed3b-44ee-b2fc-40a11a053d8e" width="800px" height="450px" alt="Architecher"></img><br/>  
 > </div>
 <br>
 ***
