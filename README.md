@@ -26,8 +26,5 @@
             <!-- Add more projects as needed -->
         </section>
     </main>
-    <footer>
-        <p>© 2024 My Portfolio</p>
-    </footer>
 </body>
 </html>
