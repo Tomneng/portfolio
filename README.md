@@ -60,5 +60,5 @@
 > </div>
 > <div align="center">
 > <h3>JWT 를 활용한 Oauth2 소셜 로그인<h3/>  
-> <img src="https://github.com/Tomneng/portfolio/assets/151795437/71695b8d-0819-4e02-b39a-cd2ace9c4411" width="800px" height="450px" alt="gif"></img>
+> <img src="https://github.com/Tomneng/portfolio/assets/151795437/71695b8d-0819-4e02-b39a-cd2ace9c4411" width="400px" height="250px" alt="gif"></img>
 > </div>
